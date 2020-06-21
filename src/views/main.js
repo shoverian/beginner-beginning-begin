@@ -4,7 +4,7 @@ const Splash = require('./splash')
 const Content = require('./content')
 module.exports = function Home (props) {
   props = props || {}
-  let title = props.title || 'Personal Website'
+  let title = props.title || 'Beginner Beginning Begin Website'
   return `
 <!DOCTYPE html>
 <html lang="en">
